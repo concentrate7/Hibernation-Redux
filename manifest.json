@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Hibernation Redux",
+  "Author": "conCentrate7",
+  "Version": "1.0.0",
+  "Description": "Sleep through multiple nights at a time.",
+  "UniqueID": "conCentrate7.HibernationRedux",
+  "EntryDll": "Hibernation.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [ "Nexus:99999" ],
+  "Dependencies": [
+    {
+      "UniqueID": "Shockah.Kokoro",
+      "IsRequired": true,
+      "MinimumVersion": "2.0.0"
+    }
+  ]
+}
