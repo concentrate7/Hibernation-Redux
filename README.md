@@ -1,6 +1,9 @@
 # Hibernation-Redux
 Stardew Valley Hibernation mod for 1.6 compatibility
 
+Nexus Mods link
+https://www.nexusmods.com/stardewvalley/mods/32354
+
 Original Hibernation mod was created by Shockah.
 https://www.nexusmods.com/stardewvalley/mods/11421
 
